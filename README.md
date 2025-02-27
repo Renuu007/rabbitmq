@@ -1,1 +1,1 @@
-# rabbitmq
+# RabbitMQ Demo Messaging
